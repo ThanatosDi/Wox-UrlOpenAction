@@ -1,0 +1,12 @@
+{
+  "ID":"A7EAB05453F2494EB7837E3ED0EDB26B",
+  "ActionKeyword":"*",
+  "Name":"Url Open Action",
+  "Description":"Quickly open url which saved in config.json",
+  "Author":"ThanatosDi",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://github.com/ThanatosDi/Wox-UrlOpenAction",
+  "IcoPath":"Images\\app.png",
+  "ExecuteFileName":"main.py"
+}
